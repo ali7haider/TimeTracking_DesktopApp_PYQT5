@@ -960,7 +960,7 @@ class Ui_MainWindow(object):
         self.btnUpdate.setStyleSheet("\n"
 "#btnUpdate{\n"
 "\n"
-"background-color:#4673c6;\n"
+"background-color:#3c2d96;\n"
 "font: 75 12pt \"Arial\";\n"
 "color:white;\n"
 "}\n"
